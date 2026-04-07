@@ -4,7 +4,7 @@ Aplicativo móvel desenvolvido com React Native e Expo, focado em funcionamento 
 
 ## 🚀 Como rodar o projeto localmente
 
-1. **Instale as dependências:**
+1. **Instale as dependências:** (antes: apague o node modules e o package-lock.json)
    `npm install`
 
 2. **Inicie o servidor do Expo:**
